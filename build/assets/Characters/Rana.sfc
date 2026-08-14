@@ -1,0 +1,11 @@
+{
+    "name": "Rana",
+    "variables": [
+        {
+            "id": "0372a1a7d17246be8608861be0a99597",
+            "name": "RanaRelationship",
+            "type": "integer",
+            "value": 0
+        }
+    ]
+}
